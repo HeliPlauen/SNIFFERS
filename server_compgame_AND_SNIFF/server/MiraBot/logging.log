@@ -1,0 +1,11 @@
+INFO:root:06-07-2023 09:11:46 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 09:18:51 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 09:32:08 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 09:52:36 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 09:56:57 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 09:58:18 Error: [WinError 267] Неверно задано имя папки: 'C:\\Users\\Администратор\\Documents\\desktop.ini'
+INFO:root:06-07-2023 10:08:07 Error: [WinError 267] Неверно задано имя папки: 'C:\\Users\\Администратор\\Documents\\desktop.ini'
+INFO:root:06-07-2023 10:12:24 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 10:13:37 Error: [WinError 2] Не удается найти указанный файл
+INFO:root:06-07-2023 11:20:57 Error: [Errno 2] No such file or directory: 'C:\\Users\\Администратор\\AppData\\Roaming\\Battle.net\\Battle.net.config'
+INFO:root:06-07-2023 11:29:32 Error: [Errno 2] No such file or directory: 'C:\\Users\\Администратор\\AppData\\Roaming\\Battle.net\\Battle.net.config'

@@ -1,0 +1,9 @@
+﻿sock.cpp(47,35): warning : format specifies type 'int' but the argument has type 'SOCKET' (aka 'unsigned long long') [-Wformat]
+sock.cpp(50,44): warning : format specifies type 'long' but the argument has type 'int' [-Wformat]
+sock.cpp(59,31): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+D:\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+D:\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+sock.cpp(62,59): warning : format specifies type 'unsigned int' but the argument has type 'ULONG' (aka 'unsigned long') [-Wformat]
+sock.cpp(74,49): warning : format specifies type 'long' but the argument has type 'int' [-Wformat]
+sock.cpp(89,53): warning : format specifies type 'long' but the argument has type 'int' [-Wformat]
+  sock.vcxproj -> D:\AA-PROGRAMMING\PROGRAMMING\BOT_AND_MOONLIGHT\WinSock2\x64\Debug\sock.exe

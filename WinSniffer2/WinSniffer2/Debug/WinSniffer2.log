@@ -1,0 +1,18 @@
+﻿WinSniffer2.cpp(61,32): warning : data argument not used by format string [-Wformat-extra-args]
+WinSniffer2.cpp(84,11): warning : 'gethostbyname' is deprecated: Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2221,1): message : 'gethostbyname' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer2.cpp(94,38): warning : format specifies type 'char *' but the argument has type 'HOSTENT *' (aka 'hostent *') [-Wformat]
+WinSniffer2.cpp(95,38): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer2.cpp(104,32): warning : data argument not used by format string [-Wformat-extra-args]
+WinSniffer2.cpp(118,32): warning : data argument not used by format string [-Wformat-extra-args]
+WinSniffer2.cpp(143,34): warning : data argument not used by format string [-Wformat-extra-args]
+WinSniffer2.cpp(155,36): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer2.cpp(160,38): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+  WinSniffer2.vcxproj -> N:\YPROGRAMMING\Sniffers\WinSniffer2\Debug\WinSniffer2.exe

@@ -1,0 +1,26 @@
+﻿WinSniffer1a.cpp(61,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(70,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(79,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(87,20): warning : 'gethostbyname' is deprecated: Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2221,1): message : 'gethostbyname' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer1a.cpp(90,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(96,38): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer1a.cpp(106,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(117,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(127,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(140,23): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(153,36): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer1a.cpp(158,36): warning : 'inet_ntoa' is deprecated: Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1851,1): message : 'inet_ntoa' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+WinSniffer1a.cpp(165,18): warning : unused variable 'tcpHeader' [-Wunused-variable]
+WinSniffer1a.cpp(176,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(183,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+WinSniffer1a.cpp(54,12): warning : unused variable 'ipHdr' [-Wunused-variable]
+WinSniffer1a.cpp(55,13): warning : unused variable 'udpHdr' [-Wunused-variable]
+  WinSniffer1a.vcxproj -> N:\YPROGRAMMING\Sniffers\WinSniffer1a\x64\Debug\WinSniffer1a.exe

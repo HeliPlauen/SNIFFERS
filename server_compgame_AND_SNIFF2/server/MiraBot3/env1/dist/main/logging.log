@@ -1,0 +1,29 @@
+INFO:root:11-07-2023 21:12:45 Steam termination ERROR!!!
+INFO:root:11-07-2023 21:12:46 Steam registry cleaning FAILED!!!
+INFO:root:11-07-2023 21:12:47 Origin termination ERROR!!!
+INFO:root:11-07-2023 21:12:48 Origin path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:12:49 Battlenet termination ERROR!!!
+INFO:root:11-07-2023 21:12:50 Battlenet cleaning FAILED!!!
+INFO:root:11-07-2023 21:12:50 Epicgames termination ERROR!!!
+INFO:root:11-07-2023 21:12:51 Epicgames path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:12:52 Wargaming termination ERROR!!!
+INFO:root:11-07-2023 21:12:53 Wargaming path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:12:54 NVIDIA termination ERROR!!!
+INFO:root:11-07-2023 21:12:54 Error: HTTPSConnectionPool(host='miraplay.cloud', port=443): Max retries exceeded with url: /wp-admin/admin-ajax.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001502AAB6990>: Failed to resolve 'miraplay.cloud' ([Errno 11001] getaddrinfo failed)"))
+INFO:root:11-07-2023 21:18:16 Steam termination ERROR!!!
+INFO:root:11-07-2023 21:18:17 Steam registry cleaning FAILED!!!
+INFO:root:11-07-2023 21:18:17 Origin termination ERROR!!!
+INFO:root:11-07-2023 21:18:18 Origin path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:18:19 Battlenet termination ERROR!!!
+INFO:root:11-07-2023 21:18:20 Battlenet cleaning FAILED!!!
+INFO:root:11-07-2023 21:18:20 Epicgames termination ERROR!!!
+INFO:root:11-07-2023 21:18:21 Epicgames path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:18:21 Wargaming termination ERROR!!!
+INFO:root:11-07-2023 21:18:22 Wargaming path DOES NOT EXIST!!!
+INFO:root:11-07-2023 21:18:23 NVIDIA termination ERROR!!!
+INFO:root:11-07-2023 21:18:28 ViberDownloads is not a file!!!!
+INFO:root:11-07-2023 21:18:28 Visual Studio 2019 is not a file!!!!
+INFO:root:11-07-2023 21:18:28 Мои видеозаписи is not a file!!!!
+INFO:root:11-07-2023 21:18:28 мои рисунки is not a file!!!!
+INFO:root:11-07-2023 21:18:28 Моя музыка is not a file!!!!
+INFO:root:11-07-2023 21:18:29 Error: Failed to read img.png because file is missing, has improper permissions, or is an unsupported or invalid format

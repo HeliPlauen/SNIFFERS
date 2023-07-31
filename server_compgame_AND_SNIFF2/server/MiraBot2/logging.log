@@ -1,0 +1,5 @@
+INFO:root:06-07-2023 22:14:45 Error: name 'miner_pid' is not defined
+INFO:root:06-07-2023 22:15:07 Error: name 'miner_pid' is not defined
+INFO:root:07-07-2023 11:01:05 Error: HTTPSConnectionPool(host='miraplay.cloud', port=443): Read timed out. (read timeout=None)
+INFO:root:07-07-2023 11:26:10REBOOTING
+INFO:root:07-07-2023 12:10:46REBOOTING
