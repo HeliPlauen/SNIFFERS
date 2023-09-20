@@ -1,0 +1,3 @@
+﻿  WinSniffer4.cpp
+N:\YPROGRAMMING\SNIFFERS\WinSniffer4\WinSniffer4\WinSniffer4.cpp(84,15): warning C4101: end: неиспользованная локальная переменная
+  WinSniffer4.vcxproj -> N:\YPROGRAMMING\SNIFFERS\WinSniffer4\x64\Debug\WinSniffer4.exe
